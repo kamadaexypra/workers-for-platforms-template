@@ -1,1 +1,1 @@
-# workers-for-platforms-template
+# kamada_exypra
